@@ -1,4 +1,4 @@
-const music = document.getElementById("undertale_dogsong.mp3");
+const music = document.getElementById("background-music");
 
 function startMusic() {
     music.play().catch(() => {});
