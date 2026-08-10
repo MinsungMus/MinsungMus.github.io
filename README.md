@@ -7,9 +7,16 @@
 <h1>Welcome to Peanut's Fanpage!</h1>
 <p>This is where I will be posting a bunch of Peanut Pictures and you will eventually be able to sign up for a Peanut membership with exclusive access to monthly Peanut photos!</p>
 
-<audio controls>
-  <source src="undertale_dogsong.mp3" type="audio/mpeg">
+<audio autoplay loop>
+  <source src="assets/music/my-song.mp3" type="audio/mpeg">
 </audio>
+
+<script>
+document.addEventListener("click", function() {
+    const audio = document.querySelector("audio");
+    audio.play();
+}, { once: true });
+</script>
 
 <img src="https://i.imgur.com/NmPvmx6.jpeg" alt="Peanut and his new favorite toy." width="300" height="300"> <img src="https://i.imgur.com/fHbhT1k.jpeg" alt="Peanut and his new favorite toy." width="300" height="300">
 
