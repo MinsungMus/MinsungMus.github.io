@@ -14,6 +14,14 @@
 
     <section id="about">
         <h2>About Peanut</h2>
+        <h3>Peanut's Favorite Things</h3>
+
+        <ul>
+            <li>His favorite toy</li>
+            <li>Treats</li>
+            <li>Naps</li>
+            <li>Walks</li>
+        </ul>
 
         <p>
             This is where I will be posting a bunch of Peanut pictures
