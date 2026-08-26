@@ -39,7 +39,13 @@
     <section id="membership">
         <h2>Peanut Membership</h2>
 
-        <!-- Your membership form will go here -->
+       <form>
+    <input type="text" placeholder="Name">
+    <input type="email" placeholder="Email">
+    <textarea placeholder="Message"></textarea>
+
+    <button type="submit">Send</button>
+        </form>
     </section>
 
 </main>
