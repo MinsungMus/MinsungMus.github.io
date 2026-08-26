@@ -13,6 +13,7 @@
 <main>
 
     <section id="about">
+        <br>
         <h2>About Peanut</h2>
         <h3>Peanut's Favorite Things</h3>
 
