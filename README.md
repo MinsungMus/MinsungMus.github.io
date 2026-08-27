@@ -33,9 +33,6 @@
 
 <h3>🐶 Peanut</h3>
 
-<p id="status">💤 Sleeping</p>
-
-<button onclick="peanutStatus()">What is Peanut doing?</button>
 
 <p>Pats: <span id="counter">0</span></p>
 
