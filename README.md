@@ -43,16 +43,6 @@
 
 </div>
 
-
-<div class="right-sidebar">
-
-<h3>🎵 Music</h3>
-
-<audio controls>
-    <source src="assets/music/song.mp3" type="audio/mpeg">
-</audio>
-
-</div>
     </section>
 
     <section id="photos">
