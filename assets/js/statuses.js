@@ -8,7 +8,8 @@ const statuses = [
 ];
 
 function peanutStatus() {
-    const randomIndex = Math.floor(Math.random() * statuses.length);
+    document.getElementById("status").textContent = "🐶 Peanut is eating!";
+}
 
     document.getElementById("status").textContent =
         statuses[randomIndex];
