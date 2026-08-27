@@ -29,6 +29,30 @@
             and eventually you will be able to sign up for a Peanut
             membership with exclusive access to monthly Peanut photos!
         </p>
+    <div class="left-sidebar">
+
+<h3>🐶 Peanut</h3>
+
+<p id="status">💤 Sleeping</p>
+
+<button onclick="peanutStatus()">What is Peanut doing?</button>
+
+<p>Pats: <span id="counter">0</span></p>
+
+<button onclick="addPeanut()">🐾 Pat Peanut</button>
+
+</div>
+
+
+<div class="right-sidebar">
+
+<h3>🎵 Music</h3>
+
+<audio controls>
+    <source src="assets/music/song.mp3" type="audio/mpeg">
+</audio>
+
+</div>
     </section>
 
     <section id="photos">
