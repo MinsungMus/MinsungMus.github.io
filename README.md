@@ -70,3 +70,5 @@
 </footer>
 
 </body>
+
+<script src="assets/js/pats.js"></script>
