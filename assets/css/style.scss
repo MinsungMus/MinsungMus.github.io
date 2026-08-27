@@ -22,6 +22,18 @@ body::before {
   z-index: -1;
 }
 
+.left-sidebar {
+    position: fixed;
+    left: 30px;
+    top: 100px;
+    width: 200px;
+}
+.right-sidebar {
+    position: fixed;
+    right: 30px;
+    top: 100px;
+    width: 200px;
+}
 * {
   text-align: center;
   color: blue;
