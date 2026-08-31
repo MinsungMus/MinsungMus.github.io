@@ -69,4 +69,3 @@
 </body>
 
 <script src="assets/js/pats.js"></script>
-<script src="assets/js/statuses.js"></script>
