@@ -1,3 +1,4 @@
+<head> <script> window.alert("Hello! Welcome :D"); </script></head>
 <body>
 
 <header>
